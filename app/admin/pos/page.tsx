@@ -69,6 +69,14 @@ export default function POSManagement() {
       icon: '📈',
       route: '/admin/pos/reports',
       color: 'bg-indigo-500 hover:bg-indigo-600'
+    },
+    {
+      id: 7,
+      title: 'スマレジ連携',
+      description: 'スマレジAPI接続・商品同期・売上連携',
+      icon: '📱',
+      route: '/admin/smaregi',
+      color: 'bg-pink-500 hover:bg-pink-600'
     }
   ]
 

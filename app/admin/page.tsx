@@ -90,11 +90,11 @@ export default function AdminMainMenu() {
     },
     {
       id: 9,
-      title: 'マーケティング管理',
-      description: 'キャンペーン・メール配信・分析',
-      icon: '📈',
-      route: '/admin/marketing',
-      color: 'bg-red-500 hover:bg-red-600'
+      title: 'スマレジ連携',
+      description: 'スマレジAPI・商品同期・売上連携',
+      icon: '�',
+      route: '/admin/smaregi',
+      color: 'bg-pink-500 hover:bg-pink-600'
     },
     {
       id: 10,
